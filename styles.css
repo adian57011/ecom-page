@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    background-color: rgb(241, 237, 237);
+    height: 80vh;
+    width: 100%;
+    position: relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+.item-1{
+    background-color: white;
+    height: 60vh;
+    width: 25%;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.item-2{
+    background-color: white;
+    height: 60vh;
+    width: 25%;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 15px;
+}
+.item-3{
+    background-color: white;
+    height: 60vh;
+    width: 25%;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 15px;
+
+}
+.item-4{
+    background-color: white;
+    height: 60vh;
+    width: 25%;
+    margin: 10px;
+    padding: 15px;
+    border-radius: 15px;
+
+}
+ .image img{
+    height: 40vh;
+    padding: 15px;
+
+}
+
+.text-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.text-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text-3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.text-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn{
+    width: 80%;
+    margin-top: 10px;
+    padding: 9px;
+    border-radius: 7px;
+}
+
+.rating{
+    position: relative;
+    left: 35%;
+}
